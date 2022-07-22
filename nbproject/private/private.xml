@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/web/detail.jsp</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/dao/AccountDAO.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/dao/OrderDetailDAO.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/controller/UserManagement/EditProfileController.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/controller/FilterCategoryController.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/dao/ShippingDAO.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/controller/HomeController.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/controller/SearchController.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/dao/OrderDAO.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/tuann/OneDrive/Documents/NetBeansProjects/Assignment_Project/src/java/context/DBContext.java</file>
+        </group>
+    </open-files>
+</project-private>
